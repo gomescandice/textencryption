@@ -1,9 +1,13 @@
 # textencryption
 Text Encryption – Mini DES
-Synopsis
+
+Synopsis: 
+
 Program for encoding and decoding a secret 9-bit key into a fixed length text message applied with Simplified DES and Block cipher modes of encryption using Java coding techniques.
 
-Code
+
+Code: 
+
 The code is structured as follows
 •	Takes input a fixed length converts that input into bits. 
 •	Encrypts the input with secret message resulting in an output.
